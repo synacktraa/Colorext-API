@@ -24,7 +24,7 @@ ___
 
 `Manipulating background and foreground` ↴
 
-<img width=600 src="https://i.imgur.com/Oa9zmja.png">
+<img width=600 src="https://i.imgur.com/Oa9zmja.png?1">
 
 ---
 ___
