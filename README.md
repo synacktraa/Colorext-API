@@ -44,4 +44,4 @@ ___
 
 <br>
 
->Note: This module is not yet completed, will adding more colors and features
+>Note: This module is not yet completed, will be adding more colors and features.
