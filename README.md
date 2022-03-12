@@ -33,7 +33,7 @@ ___
 
 >### Foreground Colors ↴
 ---
-<img src="https://i.imgur.com/OBqUstP.png">
+<img width=700 src="https://i.imgur.com/OBqUstP.png">
 
 <br>
 
