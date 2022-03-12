@@ -12,19 +12,19 @@ ___
 
 `Manipulating foreground/text` ↴
 
-<img width=400 src="https://i.imgur.com/cdB0WN9.png">
+<img width=600 src="https://i.imgur.com/cdB0WN9.png">
 
 ---
 
 `Manipulating background` ↴
 
-<img width=400 src="https://i.imgur.com/QNrYnwP.png">
+<img width=600 src="https://i.imgur.com/QNrYnwP.png">
 
 ---
 
 `Manipulating background and foreground` ↴
 
-<img width=400 src="https://i.imgur.com/Oa9zmja.png">
+<img width=600 src="https://i.imgur.com/Oa9zmja.png">
 
 ---
 ___
